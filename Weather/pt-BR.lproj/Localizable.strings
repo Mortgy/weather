@@ -1,0 +1,17 @@
+/* 
+  Localization.strings
+  Weather
+
+  Created by mortgy on 14.01.2018.
+  Copyright © 2018 Mortgy. All rights reserved.
+*/
+"select_a_city" = "Selecione uma cidade!";
+"ok" = "Está bem";
+"cancel" = "cancelar";
+"temperature_unite" = "Unidade de temperatura";
+"tomorrow" = "Amanhã";
+
+"location" = "Localização";
+"temperature_unites" = "Unidades de temperatura";
+"forecast_days" = "Dias de previsão";
+"language" = "Língua";

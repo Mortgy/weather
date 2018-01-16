@@ -1,0 +1,21 @@
+
+/* Class = "UINavigationItem"; title = "Configurações"; ObjectID = "0WK-gu-mxi"; */
+"0WK-gu-mxi.title" = "Configurações";
+
+/* Class = "UIViewController"; title = "Information"; ObjectID = "4N4-kg-2ji"; */
+"4N4-kg-2ji.title" = "Em formação";
+
+/* Class = "UILabel"; text = "Hoje"; ObjectID = "7Xw-yL-uba"; */
+"7Xw-yL-uba.text" = "Hoje";
+
+/* Class = "UILabel"; text = "v1.0.0"; ObjectID = "O6Z-NS-YQT"; */
+"O6Z-NS-YQT.text" = "v1.0";
+
+/* Class = "UILabel"; text = "v1.0.0"; ObjectID = "U1K-ya-cHh"; */
+"U1K-ya-cHh.text" = "v1.0";
+
+/* Class = "UINavigationItem"; title = "Em formação"; ObjectID = "Yoj-Dy-iIw"; */
+"Yoj-Dy-iIw.title" = "Em formação";
+
+/* Class = "UITextField"; placeholder = "Pesquisar cidade"; ObjectID = "vjE-yU-fPP"; */
+"vjE-yU-fPP.placeholder" = "Pesquisar cidade";
